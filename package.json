@@ -1,0 +1,24 @@
+{
+  "name": "camagru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonsonu/camagru.git"
+  },
+  "author": "ksonu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moonsonu/camagru/issues"
+  },
+  "homepage": "https://github.com/moonsonu/camagru#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0"
+  }
+}
